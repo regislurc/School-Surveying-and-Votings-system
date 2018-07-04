@@ -1,2 +1,2 @@
-# Trial
-Don't mind about this. Just testing out
+# School Vote
+School system allowing students to carry on surveys and votings quicker.
